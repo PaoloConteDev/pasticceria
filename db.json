@@ -1,0 +1,63 @@
+{
+  "dolci": [
+    {
+      "nome": "Tiramisu",
+      "prezzo": "4",
+      "ingredienti": [
+        "Mascarpone",
+        "Caffe",
+        "Savoiardi",
+        "Cacao"
+      ],
+      "data_vendita": "2025-02-04",
+      "quantita": 10,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nome": "Torta di mele",
+      "prezzo": 8,
+      "data_vendita": "2025-02-05",
+      "quantita": 2,
+      "ingredienti": [
+        "Torta",
+        "Mele"
+      ]
+    },
+    {
+      "nome": "Cannolo",
+      "prezzo": "3",
+      "ingredienti": [
+        "Farina",
+        "Zucchero",
+        "Burro"
+      ],
+      "data_vendita": "2025-02-06",
+      "quantita": 20,
+      "id": "3"
+    },
+    {
+      "id": "cc3a",
+      "nome": "Torta alla Crema",
+      "prezzo": "20",
+      "ingredienti": [
+        "Torta",
+        "Crema"
+      ],
+      "data_vendita": "2025-01-29",
+      "quantita": "1"
+    }
+  ],
+  "utenti": [
+    {
+      "user": "mario",
+      "pass": "1234",
+      "id": "dcba"
+    },
+    {
+      "user": "carmine",
+      "pass": "test",
+      "id": "e58f"
+    }
+  ]
+}
