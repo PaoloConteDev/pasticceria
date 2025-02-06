@@ -12,7 +12,7 @@
 3. Avvia JSON Server nel backend:
   cd pasticceria-backend
   json-server --watch db.json --port 3001
-  Il progetto sarà disponibile su:
 
-Frontend: http://localhost:3000
-Backend: http://localhost:3001
+Il progetto sarà disponibile su:
+   Frontend: http://localhost:3000
+   Backend: http://localhost:3001
